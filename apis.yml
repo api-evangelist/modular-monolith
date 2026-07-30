@@ -2,7 +2,18 @@ aid: modular-monolith
 name: Modular Monolith
 description: An architectural pattern that structures a monolithic application into loosely coupled, well-defined modules with clear boundaries and dependencies, combining the operational simplicity of a monolith with the organizational benefits of modular design. Organizations adopt it to address specific technical or business challenges in their environments.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/modular-monolith.png
 url: https://raw.githubusercontent.com/api-evangelist/modular-monolith/refs/heads/main/apis.yml
 tags:
   - Software Architecture
