@@ -1,4 +1,4 @@
-# Modular Monolith (modular-monolith)
+# Modular Monolith
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,27 +66,26 @@
 
 An architectural pattern that structures a monolithic application into loosely coupled, well-defined modules with clear boundaries and dependencies, combining the operational simplicity of a monolith with the organizational benefits of modular design. Organizations adopt it to address specific technical or business challenges in their environments.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/modular-monolith/refs/heads/main/apis.yml)
+**Areas:** Software Architecture · Design Patterns · Modularity · Monolithic Architecture
 
-## Scope
+## Modular Monolith on APIs.io
 
-- **Type:** Index
+Everything profiled for Modular Monolith is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/modular-monolith/](https://apis.io/providers/modular-monolith/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+## API Evangelist rating
 
-- Software Architecture, Design Patterns, Modularity, Monolithic Architecture
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## Timestamps
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-28
+## How this profile is made
 
-## Common Properties
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-- [Reference](https://www.kamilgrzybek.com/blog/posts/modular-monolith-primer)
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Modular Monolith: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-## Maintainers
+## Open an issue
 
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/modular-monolith/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
